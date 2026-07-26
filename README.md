@@ -153,7 +153,7 @@ Login Screen
 
 **FINAL PROJECT RECORDING YOUTUBE LINK** : https://youtu.be/Od_ap1UFFhA
 <br>
-**URL GITHUB REPOSITORY**: https://github.com/Syeda-Aliza-Batool/Finverse-Wallet
+**URL GITHUB REPOSITORY**: https://github.com/Kashaf-Batool/Finverse-Wallet-Transaction-Management-System-
 
 ## Notes
 
