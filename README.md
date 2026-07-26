@@ -161,3 +161,4 @@ Login Screen
 - A wallet (PKR, starting balance PKR 0.00) is automatically created for every newly registered user.
 - Business rules enforced by `WalletService`: minimum balance of PKR 100 must remain after any withdrawal or transfer; single deposit capped at PKR 100,000; minimum transfer amount is PKR 10.
 - Session state (logged-in user and wallet) is held in the static `SessionManager` and cleared on logout.
+"# Finverse-Wallet"
